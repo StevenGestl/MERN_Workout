@@ -10,9 +10,9 @@
 // cd frontend then npm start
 
 installed packages =>
-date-fns@3.6.0
-mongoose@8.2.0
-dotenv@16.4.5
+date-fns@3.6.0,
+mongoose@8.2.0,
+dotenv@16.4.5,
 express@4.18.2
 
 
