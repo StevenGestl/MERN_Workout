@@ -21,8 +21,14 @@ function App() {
 
 export default App;
 
-// issues faced
+// ISSUES FACED
 // issue: local host wouldn't connect
 // solution: npm update then npm audit fix --force
+// issue: mongoDB disconnected showed error of ECONNREFUSED 
+// solution: mongo restart required, ip address had changed, new authentification string required
+
 //cd backend then npm run dev
 // cd frontend then npm start
+
+
+// npm install date-fns
